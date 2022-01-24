@@ -22,7 +22,7 @@ class TEXT:
 
 ** Developer:** [UNKNOWN](https://t.me/unknown1947m)
 
-** Channel:** [IBOMMA](https://t.me/disneygrou)
+** Channel:** [IBOMMA](https://t.me/ibomma1947)
 
 ** Group:** [Disney chat](https://t.me/disneyteamchat)
 """
