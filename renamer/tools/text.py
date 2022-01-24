@@ -3,7 +3,7 @@ from pyrogram.emoji import *
 class TEXT:
     DOWNLOAD_START = f"Downloading Starts soon {SLEEPING_FACE}"
     UPLOAD_START = f"Upload Starting Soon {SLEEPING_FACE}"
-    UPLOAD_SUCESS = f"Thanks for using [me](https://t.me/doreamonfans1)"
+    UPLOAD_SUCESS = f"Thanks for using [me](https://t.me/ibomma1947)"
     BANNED_USER_TEXT = f"Hey bro, you are **banned** from using me {FACE_WITH_TEARS_OF_JOY}."
     NOT_LOGGED_TEXT = f"This bot was only for private use {LOCKED_WITH_KEY}. If you want to use this bot you need to send me correct password in the format `/login bot_password`"
     SAVED_CUSTOM_THUMBNAIL = f"Thumbnail Saved Permanently {NOTEBOOK_WITH_DECORATIVE_COVER}"
@@ -20,9 +20,9 @@ class TEXT:
 
 ** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-** Developer:** [DOREAMONFANS](https://t.me/doreamonfans1)
+** Developer:** [UNKNOWN](https://t.me/unknown1947m)
 
-** Channel:** [Disney Team](https://t.me/disneygrou)
+** Channel:** [IBOMMA](https://t.me/disneygrou)
 
 ** Group:** [Disney chat](https://t.me/disneyteamchat)
 """
@@ -39,11 +39,11 @@ For source code check about
 
     START_TEXT = """Hi {user_mention},
 
-I am a Disney Team renamer V4 BOT with permanent thumbnail.
+I am a IBOMMA1947 Renamer BOT with permanent thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
-**Maintained By:** [Doreamonfans](https://t.me/doreamonfans1)
+**Maintained By:** [UNKNOWN](https://t.me/unknown1947m)
 """
 
 
@@ -51,7 +51,9 @@ I am a Disney Team renamer V4 BOT with permanent thumbnail.
  
 Donate us to keep our services continously alive
 You can send any amount 
-of 20rs, 30rs, 50rs, 70rs, 100rs, 200rs
+of 20rs, 30rs, 50rs, 70rs, 100rs,150rs, 200rs
+Note: By Paying Me Amount You Can Use Premium Features Of This Bot So Message Me
+😊
  
 __--Payment Methods:--__
  
